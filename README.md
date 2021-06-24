@@ -7,3 +7,5 @@ I'm a Senior Software Engineer at [andculture](https://andculture.com). Passiona
 - 🚧 Passion for building tools to make developers' lives easier
 - 🤖 Interested in bots and bot frameworks (Twitter/Slack)
 - 🍺 New to homebrewing
+
+Check out my blog post on how and why I built the [`and-cli`](https://github.com/andculturecode/AndcultureCode.Cli): [Improving Developer Productivity by Building a CLI](https://medium.com/p/1791b001d9b5)
