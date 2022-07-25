@@ -8,5 +8,4 @@ I'm a software engineer at [](https://segment.com)[Segment](https://segment.com)
 * 🤖 Interested in bots and bot frameworks (Twitter/Slack)
 * 🍺 New to homebrewing
 
-Check out my latest blog post on building Visual Studio Code extensions: [Writing and Publishing Your First Visual Studio Code Extension
-](https://medium.com/@brandongregoryscott/writing-and-publishing-your-first-visual-studio-code-extension-7ac77d4617e6)
+Check out my latest blog post on building ESLint plugins: [Beginner's Guide to Custom ESLint Plugins](https://www.brandonscott.me/posts/beginners-guide-to-custom-eslint-plugins)
